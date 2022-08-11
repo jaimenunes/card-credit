@@ -1,0 +1,17 @@
+.cardBg{
+    background: url('../../../assets/card-bg/bg-card-front.png');
+    width: 27.938rem;
+    height: 15.313rem;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+.numberCard{
+    color: var(--white);
+    font-size: 2rem;
+    text-align: center;
+}
+
+.cvcNameCard{
+    color: var(--white);
+}

@@ -1,0 +1,8 @@
+.cardBg{
+    background: url('../../../assets/card-bg/bg-card-back.png');
+    width: 27.938rem;
+    height: 15.313rem;
+    box-sizing: border-box;
+    padding: 15px;
+    margin-top: 2rem;
+}
